@@ -1,0 +1,10 @@
+
+{
+  "name": "EvoChat - Excellence AI",
+  "description": "Premium real-time AI companion using Gemini 3 Pro for advanced reasoning, search grounding, and creative synthesis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
